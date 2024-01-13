@@ -1,6 +1,6 @@
 {
   "name": "cachecan",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Wrap your functions to cache their results. Supports any storage, such as Redis, MongoDB, Vercel KV, Cloudflare KV, localStorage, and even your file system.",
   "repository": "ryoid/cachecan",
   "homepage": "https://github.com/ryoid/cachecan",
